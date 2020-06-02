@@ -4,8 +4,8 @@ The course, CSCI 571, Web Technologies, focuses on the phenomenon known as the W
 Its focus is to present many of the core technologies that the Web is based upon. 
 
 These core technologies include:  
-HTML and CSS (Hypertext MarkUp Language and Cascading Style Sheets) 
-HTTP (HyperText Transfer Protocol) and HTTP/2 Web servers, their configuration and performance properties 
+- HTML and CSS (Hypertext MarkUp Language and Cascading Style Sheets) 
+- HTTP (HyperText Transfer Protocol) and HTTP/2 Web servers, their configuration and performance properties 
 Client-side Programming Using JavaScript Ajax (Asynchronous JavaScript &amp; XML) and JSON (JavaScript Object Notation)
 Server-side Programming Using PHP and JavaScript on Node.js 
 
