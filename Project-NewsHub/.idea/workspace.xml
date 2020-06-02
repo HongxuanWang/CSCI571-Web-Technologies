@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd05802-6ba9-4e11-a4c2-924a8128bc53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArticleDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArticleDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AsyncSearchBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AsyncSearchBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewsBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewsBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewsBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewsBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewsFetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewsFetcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewsNavbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewsNavbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZBNLjjWOXarFieGpxQqEdrxrqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd05802-6ba9-4e11-a4c2-924a8128bc53" name="Default Changelist" comment="" />
+      <created>1584308473359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584308473359</updated>
+      <workItem from="1584308475221" duration="9279000" />
+      <workItem from="1584391040265" duration="7912000" />
+      <workItem from="1584479247042" duration="3169000" />
+      <workItem from="1584570536887" duration="19539000" />
+      <workItem from="1584642788176" duration="9687000" />
+      <workItem from="1584741780621" duration="13345000" />
+      <workItem from="1584820343326" duration="5137000" />
+      <workItem from="1584825497717" duration="2816000" />
+      <workItem from="1584837809233" duration="7000" />
+      <workItem from="1584913988632" duration="15735000" />
+      <workItem from="1584999087818" duration="2021000" />
+      <workItem from="1585078131120" duration="9084000" />
+      <workItem from="1585109471252" duration="576000" />
+      <workItem from="1585338499957" duration="8328000" />
+      <workItem from="1585433130888" duration="5978000" />
+      <workItem from="1585440915663" duration="2436000" />
+      <workItem from="1585514776467" duration="15934000" />
+      <workItem from="1585598132785" duration="1333000" />
+      <workItem from="1585687054121" duration="4464000" />
+      <workItem from="1585774580074" duration="1069000" />
+      <workItem from="1585864030856" duration="1213000" />
+      <workItem from="1585878778921" duration="145000" />
+      <workItem from="1585952652405" duration="666000" />
+      <workItem from="1585967347573" duration="27000" />
+      <workItem from="1586039730613" duration="15327000" />
+      <workItem from="1586115516360" duration="6996000" />
+      <workItem from="1586132997447" duration="11066000" />
+      <workItem from="1586149059624" duration="712000" />
+      <workItem from="1586210194017" duration="2192000" />
+      <workItem from="1586214858860" duration="674000" />
+      <workItem from="1586238789418" duration="2100000" />
+      <workItem from="1586242149862" duration="1168000" />
+      <workItem from="1586302678048" duration="2183000" />
+      <workItem from="1586404426623" duration="261000" />
+      <workItem from="1586407619259" duration="636000" />
+      <workItem from="1586471454081" duration="74000" />
+      <workItem from="1586808536715" duration="13000" />
+      <workItem from="1587846349727" duration="1512000" />
+      <workItem from="1589217137494" duration="45000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1584399480644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584399480644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1584590572886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584590572886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1584593290384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584593290384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1584748491069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584748491069</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1584768403901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584768403901</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1584830689109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584830689109</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1584943097564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584943097564</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1585092044442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585092044442</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1585348148996</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585348148996</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1585439059310</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585439059310</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1585527696932</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585527696932</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1586074876900</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586074876900</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#ESLint" timestamp="1584914925475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1584914925475" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1586074875433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586074875433" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589217158892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589217158892" />
+    <state width="1899" height="197" key="GridCell.Tab.0.bottom" timestamp="1586246219318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586246219318" />
+    <state width="1899" height="197" key="GridCell.Tab.0.center" timestamp="1586246219317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="197" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586246219317" />
+    <state width="1899" height="197" key="GridCell.Tab.0.left" timestamp="1586246219317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="197" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586246219317" />
+    <state width="1899" height="197" key="GridCell.Tab.0.right" timestamp="1586246219317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="197" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586246219317" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584308924181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584308924181" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1586140191627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586140191627" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584574975151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584574975151" />
+  </component>
+</project>
