@@ -6,16 +6,16 @@ Its focus is to present many of the core technologies that the Web is based upon
 These core technologies include:  
 - HTML and CSS (Hypertext MarkUp Language and Cascading Style Sheets) 
 - HTTP (HyperText Transfer Protocol) and HTTP/2 Web servers, their configuration and performance properties 
-Client-side Programming Using JavaScript Ajax (Asynchronous JavaScript &amp; XML) and JSON (JavaScript Object Notation)
-Server-side Programming Using PHP and JavaScript on Node.js 
+- Client-side Programming Using JavaScript Ajax (Asynchronous JavaScript &amp; XML) and JSON (JavaScript Object Notation)
+- Server-side Programming Using PHP and JavaScript on Node.js 
 
 In addition the course also covered the following subsidiary topics:  
-Web Services (REST) 
-Web Security and Privacy tools Web Technologies for Mobile Phones (Android and iOS) 
-Responsive Website Design 
-Cloud Computing (Amazon Web Services, Google Cloud Platform and Azure) 
-AngularJS and Nodes.js 
-Serverless Applications AWS Lambda, Google Functions and Azure Functions
+- Web Services (REST) 
+- Web Security and Privacy tools Web Technologies for Mobile Phones (Android and iOS) 
+- Responsive Website Design 
+- Cloud Computing (Amazon Web Services, Google Cloud Platform and Azure) 
+- AngularJS and Nodes.js 
+- Serverless Applications AWS Lambda, Google Functions and Azure Functions
 
 The links below are __Reference Solution Videos__ 
 
